@@ -1,0 +1,25 @@
+{
+  "name": "eslint-ts-no-unused-var-error-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EqualMa/eslint-ts-no-unused-var-error-repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EqualMa/eslint-ts-no-unused-var-error-repro/issues"
+  },
+  "homepage": "https://github.com/EqualMa/eslint-ts-no-unused-var-error-repro#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.11.0",
+    "@typescript-eslint/parser": "^1.11.0",
+    "eslint": "^6.0.1",
+    "typescript": "^3.5.2"
+  }
+}
